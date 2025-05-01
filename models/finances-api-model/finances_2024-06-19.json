@@ -586,7 +586,10 @@
             "ORDER_ADJUSTMENT_ITEM_ID",
             "COUPON_ID",
             "REMOVAL_SHIPMENT_ITEM_ID",
-            "TRANSACTION_ID"
+            "TRANSACTION_ID",
+            "INVOICE_ID",
+            "SETTLEMENT_ID"
+            
           ],
           "x-docgen-enum-table-extension": [
             {
